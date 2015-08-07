@@ -1,3 +1,3 @@
 # Tools
 ## Note taking
-* Authorea
+* [Authorea](https://github.com/hijizhou/Collections/wiki/Tools)
