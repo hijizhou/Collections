@@ -5,6 +5,6 @@
 * [Evernote](https://evernote.com) - Collect inspirational ideas, write meaningful words
 
 ## Graphics editor
-* [Ti_k_z](http://www.texample.net/tikz/examples/) - TeX packages for creating graphics programmatically
+* [Tikz](http://www.texample.net/tikz/examples/) - TeX packages for creating graphics programmatically
 * [Inkscape](https://inkscape.org) - Free and open-source vector graphics editor
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) Diagramming software and digital illustration application
