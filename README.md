@@ -8,3 +8,7 @@
 * [Tikz](http://www.texample.net/tikz/examples/) - TeX packages for creating graphics programmatically
 * [Inkscape](https://inkscape.org) - Free and open-source vector graphics editor
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) Diagramming software and digital illustration application
+
+## Mac tools
+* [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - To quickly resize and position windows with keyboard shortcuts
+* [Fantastical 2](https://flexibits.com/fantastical) - A powerful calendar assistant
