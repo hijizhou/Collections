@@ -7,7 +7,8 @@
 ## Graphics editor
 * [Tikz](http://www.texample.net/tikz/examples/) - TeX packages for creating graphics programmatically
 * [Inkscape](https://inkscape.org) - Free and open-source vector graphics editor
-* [OmniGraffle](https://www.omnigroup.com/omnigraffle) Diagramming software and digital illustration application
+* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - Diagramming software and digital illustration application
+* [Plotly](https://plot.ly/) - An online analytics and data visualization tool, for scientific graphing. Amazing!
 
 ## Mac tools
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - To quickly resize and position windows with keyboard shortcuts
@@ -24,9 +25,10 @@
 * [Undocumented Matlab](http://undocumentedmatlab.com/) - It talks about _undocumented_ aspects of Matlab. 
 
 ## Miscellaneous
-(*Events*)
+(*GUI*)
 * [The hgfeval function](http://undocumentedmatlab.com/blog/hgfeval) - programmatically (synchronously) invoke a callback, rather than it being dynamically (a-synchronously) invoked when some event occurs. 
+* [Sliders in Matlab GUI](http://undocumentedmatlab.com/blog/sliders-in-matlab-gui#more-5827) - New GUI in Matlab
 
 (*Funny*)
-* [Hidden Matlab Fun](http://ashanpeiris.blogspot.hk/2014/12/matlab-easter-eggs.html)
+* [Hidden Matlab Fun](http://ashanpeiris.blogspot.hk/2014/12/matlab-easter-eggs.html) - Some easter eggs for the program
 
