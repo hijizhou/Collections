@@ -18,5 +18,15 @@
 
 
 # [Matlab Tips](#)
-## Events
-* [The hgfeval function](#) - programmatically (synchronously) invoke a callback, rather than it being dynamically (a-synchronously) invoked when some event occurs. 
+## Blogs
+* [Cleve’s Corner](http://blogs.mathworks.com/cleve/) - Cleve Moller, one of the founder of Matlab, has decided to start Blogging! His new book [Numerical Computing with Matlab] is [here](http://www.amazon.com/gp/product/0898715601/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0898715601&linkCode=as2&tag=matlabtipscom-20).
+* [Loren on the art of Matlab](http://blogs.mathworks.com/loren/) - Lots and lots of very good materials.
+* [Undocumented Matlab](http://undocumentedmatlab.com/) - It talks about _undocumented_ aspects of Matlab. 
+
+## Miscellaneous
+(*Events*)
+* [The hgfeval function](http://undocumentedmatlab.com/blog/hgfeval) - programmatically (synchronously) invoke a callback, rather than it being dynamically (a-synchronously) invoked when some event occurs. 
+
+(*Funny*)
+* [Hidden Matlab Fun](http://ashanpeiris.blogspot.hk/2014/12/matlab-easter-eggs.html)
+
