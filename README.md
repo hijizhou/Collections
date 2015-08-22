@@ -23,6 +23,7 @@
 * [Cleve’s Corner](http://blogs.mathworks.com/cleve/) - Cleve Moller, one of the founder of Matlab, has decided to start Blogging! His new book [Numerical Computing with Matlab] is [here](http://www.amazon.com/gp/product/0898715601/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0898715601&linkCode=as2&tag=matlabtipscom-20).
 * [Loren on the art of Matlab](http://blogs.mathworks.com/loren/) - Lots and lots of very good materials.
 * [Undocumented Matlab](http://undocumentedmatlab.com/) - It talks about _undocumented_ aspects of Matlab. 
+* [Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html) - Some tips and tricks for Matlab Program
 
 ## Miscellaneous
 (*GUI*)
