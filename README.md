@@ -13,6 +13,8 @@
 ## Mac tools
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - To quickly resize and position windows with keyboard shortcuts
 * [Fantastical 2](https://flexibits.com/fantastical) - A powerful calendar assistant
+* [Bitbucket](https://bitbucket.org/) - Free source code hosting
+* [Source Tree](https://www.atlassian.com/software/sourcetree/overview) - A powerful Git desktop client for developers on Mac or Windows.
 
 ## Reference manager
 * [Papers](http://www.papersapp.com/) - A powerful reference management software
