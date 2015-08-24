@@ -33,7 +33,7 @@
 * [Sliders in Matlab GUI](http://undocumentedmatlab.com/blog/sliders-in-matlab-gui#more-5827) - New GUI in Matlab
 
 (*Funny*)
-* [Hidden Matlab Fun](http://ashanpeiris.blogspot.hk/2014/12/matlab-easter-eggs.html) - Some easter eggs for the program
+* [Hidden Matlab Fun](http://ashanpeiris.blogspot.hk/2014/12/matlab-easter-eggs.html) - Some easter eggs for the program.
 
 (*Speed*)
 * [Accelerating MATLAB Performance: 1001 tips to speed up MATLAB programs](https://www.crcpress.com/Accelerating-MATLAB-Performance-1001-tips-to-speed-up-MATLAB-programs/Altman/9781482211290) by Yair M. Altman - aims to correct this perception by describing multiple ways to greatly improve MATLAB program speed. Packed with thousands of helpful tips, it leaves no stone unturned, discussing every aspect of MATLAB.
