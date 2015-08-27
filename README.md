@@ -3,7 +3,7 @@
 * [Authorea](https://www.authorea.com) - Online collaborative writing tool
 * [DEVONthink](http://www.devontechnologies.com/products/devonthink/overview.html) - Document and knowledge management tool
 * [Evernote](https://evernote.com) - Collect inspirational ideas, write meaningful words
-* [Atom](https://atom.io/) - A remarkable text editor. 
+* [Atom](https://atom.io/) - A remarkable text editor.
 
 ## Graphics editor
 * [Tikz](http://www.texample.net/tikz/examples/) - TeX packages for creating graphics programmatically
@@ -19,6 +19,10 @@
 
 ## Reference manager
 * [Papers](http://www.papersapp.com/) - A powerful reference management software
+
+## Other tools
+* [Wordle](http://www.wordle.net/) - Generating "word clouds" from the provided texts.
+* [Typeform](http://www.typeform.com/) - Create beautiful online forms.
 
 
 # [Matlab Tips](#)
