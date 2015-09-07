@@ -11,6 +11,12 @@
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - Diagramming software and digital illustration application
 * [Plotly](https://plot.ly/) - An online analytics and data visualization tool, for scientific graphing. Amazing!
 
+## MATH tools
+* [WolframAlpha](http://www.wolframalpha.com/) (online) - to compute various expressions symbolically: simple algebra, derivatives, integral, limits etc.
+* [Matlab](http://www.mathworks.com/products/matlab/) - for computing with a relatively high accuracy.
+* [Octave](http://www.gnu.org/software/octave/) - a free Matlab clone: differences with Matlab are most noticeable in the GUI and in plotting capacities.
+* [Scilab](http://www.scilab.org/) - free and has a syntax that is close to Matlab.
+
 ## Mac tools
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - To quickly resize and position windows with keyboard shortcuts
 * [Fantastical 2](https://flexibits.com/fantastical) - A powerful calendar assistant
